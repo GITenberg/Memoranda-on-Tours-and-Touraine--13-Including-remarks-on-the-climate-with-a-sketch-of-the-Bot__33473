@@ -1,0 +1,30 @@
+_repo: Memoranda-on-Tours-and-Touraine--13-Including-remarks-on-the-climate-with-a-sketch-of-the-Bot__33473
+_version: 0.1.0
+alternative_title: Memoranda on Tours, Touraine and Central France
+covers:
+- cover_type: archival
+  image_path: 33473-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holdsworth, J. H.
+    gutenberg_agent_id: '36429'
+    url: http://www.gutenberg.org/2009/agents/36429
+description: ''
+gutenberg_issued: '2010-08-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hydrotherapy -- France'
+- !lcc 'DC'
+- !lcsh 'Tours (France) -- Guidebooks'
+- !lcsh 'Health resorts -- France'
+- !lcsh 'Touraine (France) -- Guidebooks'
+title: "Memoranda on Tours and Touraine\r\nIncluding remarks on the climate with a\
+  \ sketch of the Botany And Geology of the Province also on the Wines and Mineral\
+  \ Waters of France"
+url: http://www.gutenberg.org/ebooks/33473
